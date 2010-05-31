@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tumblr version="1.0">
+	<tumblelog name="jackboberg" timezone="US/Eastern" title="jack.boberg">
+		<feeds>
+			<feed id="444032" url="http://twitter.com/statuses/user_timeline/12250432.rss" import-type="regular-no-title" next-update-in-seconds="0" title="Twitter / jackboberg"/>
+			<feed id="445131" url="http://api.flickr.com/services/feeds/photos_public.gne?id=24683789@N07&amp;lang=en-us&amp;format=rss_200" import-type="link" next-update-in-seconds="0" title="Uploads from jack.boberg"/>
+		</feeds>
+	</tumblelog>
+	<posts start="0" total="171">
+		<post id="644833614" url="http://jackboberg.tumblr.com/post/644833614" url-with-slug="http://jackboberg.tumblr.com/post/644833614/rt-ferggo-awesome-autonomous-quad-rotor" type="regular" date-gmt="2010-05-29 22:12:55 GMT" date="Sat, 29 May 2010 18:12:55" unix-timestamp="1275171175" format="html" reblog-key="qwbEutmz" slug="rt-ferggo-awesome-autonomous-quad-rotor" feed-item="http://twitter.com/jackboberg/statuses/14989761806" from-feed-id="444032">
+			<regular-body>&lt;p&gt;RT @ferggo: Awesome autonomous quad-rotor helicopter: &lt;a href="http://j.mp/dttZgO"&gt;http://j.mp/dttZgO&lt;/a&gt;&lt;/p&gt;</regular-body>
+		</post>
+		<post id="641815081" url="http://jackboberg.tumblr.com/post/641815081" url-with-slug="http://jackboberg.tumblr.com/post/641815081/rt-jookabox-playing-a-show-in-cincinnati-oh-at" type="regular" date-gmt="2010-05-28 22:08:20 GMT" date="Fri, 28 May 2010 18:08:20" unix-timestamp="1275084500" format="html" reblog-key="RmQu1SFu" slug="rt-jookabox-playing-a-show-in-cincinnati-oh-at" feed-item="http://twitter.com/jackboberg/statuses/14927950523" from-feed-id="444032">
+			<regular-body>&lt;p&gt;RT @JOOKABOX: Playing a show in Cincinnati, OH at 8:00 PM today at NorthSIDE Tavern &lt;a href="http://bit.ly/9oT0Zg"&gt;http://bit.ly/9oT0Zg&lt;/a&gt;&lt;/p&gt;</regular-body>
+		</post>
+		<post id="641197539" url="http://jackboberg.tumblr.com/post/641197539" url-with-slug="http://jackboberg.tumblr.com/post/641197539/rt-browntown-cincy-jobs-rt-yelpmidwest-yelp" type="regular" date-gmt="2010-05-28 17:11:01 GMT" date="Fri, 28 May 2010 13:11:01" unix-timestamp="1275066661" format="html" reblog-key="jQIAByqL" slug="rt-browntown-cincy-jobs-rt-yelpmidwest-yelp" feed-item="http://twitter.com/jackboberg/statuses/14908186987" from-feed-id="444032">
+			<regular-body>&lt;p&gt;RT @browntown: #cincy #jobs RT @YelpMidwest Yelp is looking for a RAD Community Manager in Cincy&amp;#8230;know anyone? &lt;a href="http://ow.ly/1R8JA"&gt;http://ow.ly/1R8JA&lt;/a&gt;&lt;/p&gt;</regular-body>
+		</post>
+		<post id="639288868" url="http://jackboberg.tumblr.com/post/639288868" url-with-slug="http://jackboberg.tumblr.com/post/639288868/rt-etchalon-video-of-an-8-month-old-deaf-baby" type="regular" date-gmt="2010-05-28 02:00:40 GMT" date="Thu, 27 May 2010 22:00:40" unix-timestamp="1275012040" format="html" reblog-key="PS1mqt5K" slug="rt-etchalon-video-of-an-8-month-old-deaf-baby" feed-item="http://twitter.com/jackboberg/statuses/14864696783" from-feed-id="444032">
+			<regular-body>&lt;p&gt;RT @etchalon: Video of an 8-month-old deaf baby having his cochlear implant activated for the first time: &lt;a href="http://bit.ly/cOvb3Q"&gt;http://bit.ly/cOvb3Q&lt;/a&gt; (via @pjd &amp;#8230;&lt;/p&gt;</regular-body>
+		</post>
+		<post id="635900466" url="http://jackboberg.tumblr.com/post/635900466" url-with-slug="http://jackboberg.tumblr.com/post/635900466/rt-beiting-apple-is-now-worth-more-than" type="regular" date-gmt="2010-05-27 00:32:44 GMT" date="Wed, 26 May 2010 20:32:44" unix-timestamp="1274920364" format="html" reblog-key="hxNywdZi" slug="rt-beiting-apple-is-now-worth-more-than" feed-item="http://twitter.com/jackboberg/statuses/14788427096" from-feed-id="444032">
+			<regular-body>&lt;p&gt;RT @beiting: Apple is now worth more than Microsoft - To quote Liz Lemon: &amp;#8220;SUCK IT Nerds!&amp;#8221;&lt;/p&gt;</regular-body>
+		</post>
+		<post id="635900474" url="http://jackboberg.tumblr.com/post/635900474" url-with-slug="http://jackboberg.tumblr.com/post/635900474/i-think-my-iphone-app-is-complete-and-ready-for" type="regular" date-gmt="2010-05-27 00:32:44 GMT" date="Wed, 26 May 2010 20:32:44" unix-timestamp="1274920364" format="html" reblog-key="m0oizKBB" slug="i-think-my-iphone-app-is-complete-and-ready-for" feed-item="http://twitter.com/jackboberg/statuses/14788121741" from-feed-id="444032">
+			<regular-body>&lt;p&gt;I THINK my iPhone app is complete, and ready for submission to the store. One more round of feedback from the client perhaps.&lt;/p&gt;</regular-body>
+		</post>
+		<post id="635900472" url="http://jackboberg.tumblr.com/post/635900472" url-with-slug="http://jackboberg.tumblr.com/post/635900472/and-now-i-am-all-the-more-interested-in-cappuccino" type="regular" date-gmt="2010-05-27 00:32:44 GMT" date="Wed, 26 May 2010 20:32:44" unix-timestamp="1274920364" format="html" reblog-key="tC95Qqqd" slug="and-now-i-am-all-the-more-interested-in-cappuccino" feed-item="http://twitter.com/jackboberg/statuses/14788203679" from-feed-id="444032">
+			<regular-body>&lt;p&gt;And now I am all the more interested in cappuccino and objective-j. Planning on trying out the atlas app again soon.&lt;/p&gt;</regular-body>
+		</post>
+		<post id="634009978" url="http://jackboberg.tumblr.com/post/634009978" url-with-slug="http://jackboberg.tumblr.com/post/634009978/another-shepard-fairey-mural-painted-over-in" type="regular" date-gmt="2010-05-26 09:32:35 GMT" date="Wed, 26 May 2010 05:32:35" unix-timestamp="1274866355" format="html" reblog-key="q9FQuwBH" slug="another-shepard-fairey-mural-painted-over-in" feed-item="http://twitter.com/jackboberg/statuses/14732229276" from-feed-id="444032">
+			<regular-body>&lt;p&gt;Another Shepard Fairey mural painted over in Cincinnati, this time by &amp;#8216;vandals&amp;#8217;? &lt;a href="http://bit.ly/cx5XTA"&gt;http://bit.ly/cx5XTA&lt;/a&gt;&lt;/p&gt;</regular-body>
+		</post>
+		<post id="632360225" url="http://jackboberg.tumblr.com/post/632360225" url-with-slug="http://jackboberg.tumblr.com/post/632360225/rt-beiting-heres-why-verizon-wont-have-an" type="regular" date-gmt="2010-05-25 22:00:12 GMT" date="Tue, 25 May 2010 18:00:12" unix-timestamp="1274824812" format="html" reblog-key="r8WBOr7U" slug="rt-beiting-heres-why-verizon-wont-have-an" feed-item="http://twitter.com/jackboberg/statuses/14716681012" from-feed-id="444032">
+			<regular-body>&lt;p&gt;RT @beiting: Here&amp;#8217;s why Verizon won&amp;#8217;t have an iPhone in 2010: &lt;a href="http://bit.ly/cb8wTK"&gt;http://bit.ly/cb8wTK&lt;/a&gt;&lt;/p&gt;</regular-body>
+		</post>
+		<post id="632360233" url="http://jackboberg.tumblr.com/post/632360233" url-with-slug="http://jackboberg.tumblr.com/post/632360233/rt-ihnatko-google-has-released-the-first" type="regular" date-gmt="2010-05-25 22:00:12 GMT" date="Tue, 25 May 2010 18:00:12" unix-timestamp="1274824812" format="html" reblog-key="ViIFvxqJ" slug="rt-ihnatko-google-has-released-the-first" feed-item="http://twitter.com/jackboberg/statuses/14708932662" from-feed-id="444032">
+			<regular-body>&lt;p&gt;RT @Ihnatko: Google has released the first &amp;#8220;stable&amp;#8221; Mac edition of the Chrome browser. Testing it all day. &lt;a href="http://bit.ly/7mDGHX"&gt;http://bit.ly/7mDGHX&lt;/a&gt;&lt;/p&gt;</regular-body>
+		</post>
+		<post id="632360238" url="http://jackboberg.tumblr.com/post/632360238" url-with-slug="http://jackboberg.tumblr.com/post/632360238/rt-line47-were-still-twiddling-and-tweaking-but" type="regular" date-gmt="2010-05-25 22:00:12 GMT" date="Tue, 25 May 2010 18:00:12" unix-timestamp="1274824812" format="html" reblog-key="tPFbKsk4" slug="rt-line47-were-still-twiddling-and-tweaking-but" feed-item="http://twitter.com/jackboberg/statuses/14707663612" from-feed-id="444032">
+			<regular-body>&lt;p&gt;RT @line47: We&amp;#8217;re still twiddling and tweaking but the new Kentucky portal is now live! check it: &lt;a href="http://www.kentucky.gov"&gt;www.kentucky.gov&lt;/a&gt;&lt;/p&gt;</regular-body>
+		</post>
+		<post id="631705957" url="http://jackboberg.tumblr.com/post/631705957" url-with-slug="http://jackboberg.tumblr.com/post/631705957/my-first-iphone-app-is-nearly-done-i-just-need-to" type="regular" date-gmt="2010-05-25 17:00:58 GMT" date="Tue, 25 May 2010 13:00:58" unix-timestamp="1274806858" format="html" reblog-key="8asPzgwR" slug="my-first-iphone-app-is-nearly-done-i-just-need-to" feed-item="http://twitter.com/jackboberg/statuses/14693572366" from-feed-id="444032">
+			<regular-body>&lt;p&gt;My first iPhone app is nearly done. I just need to work out loading a remote XML into a UIPickerView and I should be wrapping up.&lt;/p&gt;</regular-body>
+		</post>
+		<post id="623990165" url="http://jackboberg.tumblr.com/post/623990165" url-with-slug="http://jackboberg.tumblr.com/post/623990165/g-l-o-r-i-a-the-lions-are-bringing-it" type="regular" date-gmt="2010-05-23 04:36:04 GMT" date="Sun, 23 May 2010 00:36:04" unix-timestamp="1274589364" format="html" reblog-key="zbWhwRMd" slug="g-l-o-r-i-a-the-lions-are-bringing-it" feed-item="http://twitter.com/jackboberg/statuses/14536751974" from-feed-id="444032">
+			<regular-body>&lt;p&gt;G-L-O-R-I-A. The lions are bringing it.&lt;/p&gt;</regular-body>
+		</post>
+		<post id="623990173" url="http://jackboberg.tumblr.com/post/623990173" url-with-slug="http://jackboberg.tumblr.com/post/623990173/post-cac-shepard-party-seeing-the-lions-rampant" type="regular" date-gmt="2010-05-23 04:36:04 GMT" date="Sun, 23 May 2010 00:36:04" unix-timestamp="1274589364" format="html" reblog-key="wgwtRQ6R" slug="post-cac-shepard-party-seeing-the-lions-rampant" feed-item="http://twitter.com/jackboberg/statuses/14535281452" from-feed-id="444032">
+			<regular-body>&lt;p&gt;Post-CAC shepard party, seeing the lions rampant. These guys rock in such a positive way.&lt;/p&gt;</regular-body>
+		</post>
+		<post id="620235415" url="http://jackboberg.tumblr.com/post/620235415" url-with-slug="http://jackboberg.tumblr.com/post/620235415/rt-midpointmusic-tom-tom-club-will-be-playing" type="regular" date-gmt="2010-05-21 22:26:29 GMT" date="Fri, 21 May 2010 18:26:29" unix-timestamp="1274480789" format="html" reblog-key="bvS2pdu0" slug="rt-midpointmusic-tom-tom-club-will-be-playing" feed-item="http://twitter.com/jackboberg/statuses/14453761420" from-feed-id="444032">
+			<regular-body>&lt;p&gt;RT @MidPointMusic: Tom Tom Club will be playing Cincinnati&amp;#8217;s MidPoint Music Festival! MPMF#&lt;br/&gt;
+&lt;a href="http://www.tomtomclub.net/"&gt;http://www.tomtomclub.net/&lt;/a&gt;&lt;/p&gt;</regular-body>
+		</post>
+		<post id="616483923" url="http://jackboberg.tumblr.com/post/616483923" url-with-slug="http://jackboberg.tumblr.com/post/616483923/rt-hydro74-if-george-lucass-great-grandfather" type="regular" date-gmt="2010-05-20 15:52:16 GMT" date="Thu, 20 May 2010 11:52:16" unix-timestamp="1274370736" format="html" reblog-key="YboFH8Lt" slug="rt-hydro74-if-george-lucass-great-grandfather" feed-item="http://twitter.com/jackboberg/statuses/14362256432" from-feed-id="444032">
+			<regular-body>&lt;p&gt;RT @hydro74: If George Lucas&amp;#8217;s Great Grandfather made Empire Strikes Back&amp;#8230; &lt;a href="http://bit.ly/aGK5vF"&gt;http://bit.ly/aGK5vF&lt;/a&gt;&lt;/p&gt;</regular-body>
+		</post>
+		<post id="613931978" url="http://jackboberg.tumblr.com/post/613931978" url-with-slug="http://jackboberg.tumblr.com/post/613931978/rt-meyerweb-this-was-only-a-matter-of-time" type="regular" date-gmt="2010-05-19 20:04:13 GMT" date="Wed, 19 May 2010 16:04:13" unix-timestamp="1274299453" format="html" reblog-key="o3HNI3le" slug="rt-meyerweb-this-was-only-a-matter-of-time" feed-item="http://twitter.com/jackboberg/statuses/14306397929" from-feed-id="444032">
+			<regular-body>&lt;p&gt;RT @meyerweb: This was only a matter of time: &lt;a href="http://www.webmproject.org/"&gt;http://www.webmproject.org/&lt;/a&gt; What remains to be seen is if it&amp;#8217;s in any way successful.&lt;/p&gt;</regular-body>
+		</post>
+		<post id="612293668" url="http://jackboberg.tumblr.com/post/612293668" url-with-slug="http://jackboberg.tumblr.com/post/612293668/rt-jqueryui-were-adding-nearly-150-new-icons-to" type="regular" date-gmt="2010-05-19 05:20:39 GMT" date="Wed, 19 May 2010 01:20:39" unix-timestamp="1274246439" format="html" reblog-key="UH1s2VSa" slug="rt-jqueryui-were-adding-nearly-150-new-icons-to" feed-item="http://twitter.com/jackboberg/statuses/14181936493" from-feed-id="444032">
+			<regular-body>&lt;p&gt;RT @jqueryui: We&amp;#8217;re adding nearly 150 new icons to the ThemeRoller icon set &amp;#8212; check them out and share your thoughts! &lt;a href="http://bit.ly/a8hvwh"&gt;http://bit.ly/a8hvwh&lt;/a&gt;&lt;/p&gt;</regular-body>
+		</post>
+		<post id="612293665" url="http://jackboberg.tumblr.com/post/612293665" url-with-slug="http://jackboberg.tumblr.com/post/612293665/received-my-ipad-case-and-i-feel-like-its-brand" type="regular" date-gmt="2010-05-19 05:20:39 GMT" date="Wed, 19 May 2010 01:20:39" unix-timestamp="1274246439" format="html" reblog-key="LvyAoBou" slug="received-my-ipad-case-and-i-feel-like-its-brand" feed-item="http://twitter.com/jackboberg/statuses/14185916955" from-feed-id="444032">
+			<regular-body>&lt;p&gt;Received my iPad case, and I feel like it&amp;#8217;s brand new again. I wish all developers recognized screen orientation. Looking at you @werulegame&lt;/p&gt;</regular-body>
+		</post>
+		<post id="598197464" url="http://jackboberg.tumblr.com/post/598197464" url-with-slug="http://jackboberg.tumblr.com/post/598197464/rt-midpointmusic-todays-the-last-day-to-submit" type="regular" date-gmt="2010-05-14 14:12:42 GMT" date="Fri, 14 May 2010 10:12:42" unix-timestamp="1273846362" format="html" reblog-key="Mtrjvl2u" slug="rt-midpointmusic-todays-the-last-day-to-submit" feed-item="http://twitter.com/jackboberg/statuses/13975501901" from-feed-id="444032">
+			<regular-body>&lt;p&gt;RT @MidPointMusic: today&amp;#8217;s the last day to submit your music for MidPoint Music Festival 2010 showcase consideration. let&amp;#8217;s hear it! MPMF#&lt;/p&gt;</regular-body>
+		</post>
+	</posts>
+</tumblr>
