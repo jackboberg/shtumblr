@@ -57,7 +57,7 @@ public function read($format='XML')
 // --------------------------------------------------------------------
 
 /**
- * Creating posts
+ * Creating posts, requires authentication
  *
  * @access	public 
  * @param	void
@@ -74,6 +74,24 @@ public function write()
 	// 201 Created - Success! The newly created post's ID is returned.
 	// 403 Forbidden - Your email address or password were incorrect.
 	// 400 Bad Request - There was at least one error while trying to save your post. Errors are sent in plain text, one per line.
+}
+
+// --------------------------------------------------------------------
+
+/**
+ * delete a post, requires authentication
+ *
+ * @access	public 
+ * @param	void
+ * @return	void
+ **/
+public function delete()
+{
+	log_message('debug', get_class($this) . '->delete');
+
+	/**
+	 * 	post-id - The integer ID of the post you wish to delete.
+	 */
 }
 
 // --------------------------------------------------------------------
